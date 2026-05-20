@@ -1,4 +1,4 @@
-# my-nginx-ssh-project
+https://github.com/analysthrishi/my-nginx-ssh-project/tree/main# my-nginx-ssh-project
 # AWS EC2 Cloud Infrastructure Deployment: Ubuntu & Nginx Web Server
 
 A hands-on DevOps and cloud infrastructure project demonstrating how to launch an AWS EC2 instance using Ubuntu Linux, configure secure networking, install an Nginx web server, and deploy a custom webpage. 
